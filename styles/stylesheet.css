@@ -1,2 +1,9 @@
 h1{color:rgb(5, 68, 95)}
+.links{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(165, 141, 141);
+    text-align: center;
+}
+
 body{background-color: rgb(189, 96, 96);}
